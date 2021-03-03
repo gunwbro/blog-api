@@ -1,0 +1,13 @@
+[
+  {
+    "name": "default",
+    "type": "mariadb",
+    "host": "ec2-3-34-198-5.ap-northeast-2.compute.amazonaws.com",
+    "port": 3306,
+    "username": "jerkyb",
+    "password": "whrjsdn32",
+    "database": "blog",
+    "synchronize": false,
+    "entities": ["entities/*.js"]
+  }
+]
